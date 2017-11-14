@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/felix/CLionProjects/familyTree/Branch.cpp
+Branch.h
+C:/Users/felix/CLionProjects/familyTree/Branch.h
+
+C:/Users/felix/CLionProjects/familyTree/Branch.h
+string
+-
+
+C:/Users/felix/CLionProjects/familyTree/Tree.cpp
+iostream
+-
+Tree.h
+C:/Users/felix/CLionProjects/familyTree/Tree.h
+
+C:/Users/felix/CLionProjects/familyTree/Tree.h
+Branch.h
+C:/Users/felix/CLionProjects/familyTree/Branch.h
+
+C:/Users/felix/CLionProjects/familyTree/main.cpp
+iostream
+-
+Branch.h
+C:/Users/felix/CLionProjects/familyTree/Branch.h
+Tree.h
+C:/Users/felix/CLionProjects/familyTree/Tree.h
+menu.h
+C:/Users/felix/CLionProjects/familyTree/menu.h
+
+C:/Users/felix/CLionProjects/familyTree/menu.cpp
+menu.h
+C:/Users/felix/CLionProjects/familyTree/menu.h
+iostream
+-
+
+C:/Users/felix/CLionProjects/familyTree/menu.h
+
